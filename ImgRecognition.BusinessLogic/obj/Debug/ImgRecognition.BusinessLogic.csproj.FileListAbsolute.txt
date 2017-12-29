@@ -1,0 +1,9 @@
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\ImgRecognition.BusinessLogic.dll.config
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\ImgRecognition.BusinessLogic.dll
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\ImgRecognition.BusinessLogic.pdb
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\System.Net.Http.Formatting.dll
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\bin\Debug\System.Net.Http.Formatting.xml
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\obj\Debug\ImgRecognition.BusinessLogic.dll
+C:\Work\_personal\ImgRecognition\ImgRecognition.BusinessLogic\obj\Debug\ImgRecognition.BusinessLogic.pdb
