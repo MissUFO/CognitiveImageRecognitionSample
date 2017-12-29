@@ -1,0 +1,10 @@
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\ImgRecognition.BusinessLogic.dll.config
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\ImgRecognition.BusinessLogic.dll
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\ImgRecognition.BusinessLogic.pdb
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\Newtonsoft.Json.dll
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\System.Net.Http.Formatting.dll
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\Newtonsoft.Json.xml
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\bin\Release\System.Net.Http.Formatting.xml
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\obj\Release\ImgRecognition.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\obj\Release\ImgRecognition.BusinessLogic.dll
+C:\Work\_personal\CognitiveImageRecognitionSample\ImgRecognition.BusinessLogic\obj\Release\ImgRecognition.BusinessLogic.pdb
