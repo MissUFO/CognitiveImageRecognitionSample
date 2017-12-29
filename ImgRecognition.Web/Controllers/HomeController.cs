@@ -35,12 +35,12 @@ namespace ImgRecognition.Web.Controllers
                 }
 
                 ViewBag.Message = "File Uploaded Successfully!!";
-                return View();
+                return View("Index");
             }
             catch
             {
                 ViewBag.Message = "File upload failed!!";
-                return View();
+                return View("Index");
             }
         }
 
